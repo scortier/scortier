@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
   <samp>
-I am a Pre Final Year Student at NIT Silchar currently undertaking my Bachelors in Computer Science and Engineering. . I'm a Software Developer with an experience in Development, Analysis and Content Writing with particular expertise in Web, Machine Learning and Cloud Technologies. 
+I am a Pre Final Year Student at NIT Silchar currently undertaking my Bachelors in Computer Science and Engineering. I'm a Software Developer with an experience in Development, Analysis and Content Writing with particular expertise in Web, Machine Learning and Cloud Technologies. 
   </samp><br><br>
   <samp>
 <!-- Take a look at my <a href="./EXPERIENCE.md">Work Experience</a> and my <a href="./VOLUNTEER-EXPERIENCE.md">Volunteer Experience</a>. Looking for Open-Source Projects to collaborate on? Check out my <a href="./OPEN-SOURCE-PROJECTS.md">Open-Source Projects</a> and reach out to me if you would like to contribute or maintain. -->
@@ -49,19 +49,20 @@ I am a Pre Final Year Student at NIT Silchar currently undertaking my Bachelors 
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/kubernetes%20-%231572B6.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; 
+  <!-- <img src="https://img.shields.io/badge/kubernetes%20-%231572B6.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;  -->
 </p>
 
 <h2 align="center">🐦 Github Statistics </h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=scortier&layout=compact&hide=html&theme=jolly" alt="scortier" />&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scortier&count_private=true&theme=dracula"> -->
 </p>
 
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/scortier"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/_Scortier"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:onlytoaditya@gmail.com?subject=Hello%20Harsh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:onlytoaditya@gmail.com?subject=Hello%20Aditya,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/scortier/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
