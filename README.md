@@ -43,7 +43,7 @@ I am a Pre Final Year Student at NIT Silchar currently undertaking my Bachelors 
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=yellow" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/nginx%20-%231572B6.svg?&style=for-the-badge&logo=nginx&logoColor=red" />&nbsp;&nbsp;&nbsp;&nbsp;
+<!--   <img src="https://img.shields.io/badge/nginx%20-%231572B6.svg?&style=for-the-badge&logo=nginx&logoColor=red" />&nbsp;&nbsp;&nbsp;&nbsp; -->
   <img src="https://img.shields.io/badge/neo4j%20-%231572B6.svg?&style=for-the-badge&logo=neo4j&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/heroku%20-%231572B6.svg?&style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
