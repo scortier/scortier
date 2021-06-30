@@ -36,7 +36,7 @@ I am a Pre Final Year Student at NIT Silchar currently undertaking my Bachelors 
   <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
-<!--   <img src="https://img.shields.io/badge/docker%20-%231572B6.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp; &nbsp;&nbsp; -->
+  <img src="https://img.shields.io/badge/docker%20-%231572B6.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp; &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/javascript%20-%231572B6.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/mongodb%20-%231572B6.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/mysql%20-%231572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -49,7 +49,7 @@ I am a Pre Final Year Student at NIT Silchar currently undertaking my Bachelors 
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- <img src="https://img.shields.io/badge/kubernetes%20-%231572B6.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;  -->
+  <img src="https://img.shields.io/badge/kubernetes%20-%231572B6.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; 
 </p>
 
 <h2 align="center">🐦 Github Statistics </h2>
