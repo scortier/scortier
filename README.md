@@ -50,6 +50,7 @@ I am a Final Year Student at NIT Silchar currently undertaking my Bachelors in C
 <p align="center">
   <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/kubernetes%20-%231572B6.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; 
+    <img src="https://img.shields.io/badge/golang%20-%231572B6.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; 
 </p>
 
 <h2 align="center">🐦 Github Statistics </h2>
