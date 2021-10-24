@@ -32,6 +32,9 @@ I am a Final Year Student at NIT Silchar currently undertaking my Bachelors in C
 
 <h2 align="center"> 🔭 Technology Stack</h2>
 <p align="center">
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
@@ -49,8 +52,7 @@ I am a Final Year Student at NIT Silchar currently undertaking my Bachelors in C
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/kubernetes%20-%231572B6.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; 
-    <img src="https://img.shields.io/badge/golang%20-%231572B6.svg?&style=for-the-badge&logo=golang&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="https://img.shields.io/badge/kubernetes%20-%231572B6.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h2 align="center">🐦 Github Statistics </h2>
